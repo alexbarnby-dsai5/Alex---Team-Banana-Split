@@ -4,7 +4,7 @@ Team Banana Split
 Project Reflection
 Summary
 
-The goal of this project was to analyze a dataset, visualize the data, and extract meaningful insights that could support decision-making. It helped me connect technical skills with real-world problem-solving.
+The goal of this project was to analyze the magist dataset, visualize the data, and extract meaningful insights that could support decision-making. It helped me connect technical skills with real-world problem-solving.
 
 Languages and Libraries Used
 
